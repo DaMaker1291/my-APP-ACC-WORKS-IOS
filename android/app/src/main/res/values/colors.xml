@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal_500">#FF009688</color>
+    <color name="teal_400">#FF26A69A</color>
+    <color name="teal_300">#FF4DB6AC</color>
+    <color name="focus_blue">#FF42A5F5</color>
+    <color name="energy_amber">#FFFFC107</color>
+    <color name="stress_red">#FFEF5350</color>
+    <color name="recovery_green">#FF66BB6A</color>
+    <color name="bg_dark">#FF0D1117</color>
+    <color name="bg_card">#FF161B22</color>
+    <color name="text_primary">#FFE6EDF3</color>
+    <color name="text_secondary">#FF8B949E</color>
+    <color name="text_tertiary">#FF6E7681</color>
+    <color name="surface_dark">#FF21262D</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>
